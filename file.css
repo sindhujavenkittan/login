@@ -1,0 +1,43 @@
+body {
+background-image:url("D:\picture5.jpg");
+background-size: cover;
+background-attachment:fixed;
+
+}
+h2{
+
+        text-shadow: 2px 2px blueviolet;
+
+        
+  }
+   div.a{
+      text-decoration-line: underline;
+      text-decoration-style: wavy;
+    }
+  H1{
+      font-style: italic;
+      text-decoration-line: underline;
+      text-decoration-style: wavy;
+      text-transform: uppercase;
+      font-color: red;
+      color: maroon;
+      font-size: 25px;
+
+    }
+    a{
+        input[type=submit] 
+ }
+ input{
+    background-color: white;
+    border-color:white;
+
+
+ }
+ 
+ table{
+
+    padding: 60px;
+    border: solid;
+    border-color: white;
+ }
+ 

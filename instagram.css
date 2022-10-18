@@ -1,0 +1,79 @@
+*{
+	margin: 0;
+    padding: 0;
+    cursor: pointer;
+
+
+}
+body{
+	height: 100vh;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background: light;
+ 
+} 
+	form{ 
+	width: 25rem;
+	height: 30rem;
+	display: flex;
+	flex-direction: column;
+	background: linear-gradient(45deg,#405DE6,#5851DB,#833AB4,#C13584,#E1308C,#FD1D1D);
+	border-radius: 30px;
+	border: 1px solid gray;
+}
+h2{
+	font-family: sans-serif;
+	font-size: 35px;
+	color: white;
+	letter-spacing: 2px;
+	margin-top: 20%;
+	opacity: .7;
+}
+label{
+	font-size: 15px;
+	color: white;
+	margin-left: 10%;
+	opacity: .8;	
+}
+input{
+	width: 80%;
+	margin: 5% auto;
+	margin-bottom: 8%;
+	border: none;
+	outline: none;
+	background: transparent;
+	color: white;
+	border-bottom: 1px solid white;
+	opacity: .8;
+}
+button{
+	width: 50%;
+	margin:3% auto;
+	color: maroon;
+	font-size: 15px;
+	opacity: .7;
+	padding: 10px 30px;
+	border: none;
+	outline: none;
+	border-radius: 20px;
+	text-shadow: 2px 2px 4px lavender;
+
+}
+a{
+	font-size: 12px;
+	text-align: center;
+	color: white;
+	opacity: .7;
+}
+i{
+	width: 50px;
+	height: 50px;
+	margin-left: 18%;
+	margin-top: -220px;
+	background-size: 70%;
+	position: absolute;
+	padding-bottom: 20px;
+	
+}
